@@ -15,3 +15,10 @@ gcc -no-pie Task_1.s print_ram.c -o task1
 gcc -no-pie print_ram2.c Task_2.s -o task2
 ## Run
 ./task2
+
+# Task 3 
+## Compile
+gcc -no-pie clear_ram.c Task_3.s -o task3
+## Run 
+./task3
+
