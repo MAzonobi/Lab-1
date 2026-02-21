@@ -22,3 +22,9 @@ gcc -no-pie clear_ram.c Task_3.s -o task3
 ## Run 
 ./task3
 
+## Task 4
+## Compile 
+gcc -no-pie print_series.c Task_4.s -o task4
+## Run
+./task4
+
